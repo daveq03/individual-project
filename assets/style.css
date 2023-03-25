@@ -1,0 +1,23 @@
+img{
+    height: 20%;
+    width: 20%;
+    border-radius: 50%;
+    border: 50% solid;
+}
+.header__h1{
+    
+    text-align: center;
+
+}
+body{
+    background-color: hsla(58, 56%, 88%, 0.928);
+}
+hr {
+    /* border: 1px solid black; */
+    /* height: 5px; */
+    border-width: 5px;
+    border-style: double;
+    border-color: green;
+    height: 2px;
+    
+    }

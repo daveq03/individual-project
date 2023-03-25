@@ -1,0 +1,22 @@
+    *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+
+    }
+
+
+        body{
+            background-color: green;
+            text-align: center;
+        }
+        .about{
+            background-image: url(images/pexels-vincent-rivaud-2147491.jpg);
+            
+        }
+        h1{
+            background-color: orangered;
+
+        }
+        
+    
